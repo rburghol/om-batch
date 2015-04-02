@@ -1,0 +1,59 @@
+<?php
+
+include('./xajax_modeling.element.php');
+include("./lib_verify.php");
+include("./cova/lib_batchmodel.php");
+
+// END - default values
+if (count($argv) < 3) {
+   print("Usage: summarize_cova.php scenarioid riverseg runid [force_overwrite 0/1] [startdate] [enddate] \n");
+   die;
+}
+$scenid = $argv[1];
+$riverseg = $argv[2];
+$runid = $argv[3];
+if (isset($argv[4])) {
+   $overwrite = $argv[4];
+} else {
+   $overwrite = 0;
+}
+if (isset($argv[5])) {
+   $startdate = $argv[5];
+} else {
+   $startdate = '1984-01-01';
+}
+if (isset($argv[6])) {
+   $enddate = $argv[6];
+} else {
+   $enddate = '2005-12-31';
+}
+if (strlen($riverseg) <= 3) {
+   $segs = array();
+   $listobject->querystring = " select riverseg from sc_cbp53 where riverseg ilike '$riverseg%' ";
+   print("Looking for river abbreviation match <br>\n");
+   print("$listobject->querystring ; <br>\n");
+   $listobject->performQuery();
+   foreach ($listobject->queryrecords as $thisrec) {
+      $segs[] = $thisrec['riverseg'];
+   }
+} else {
+   $segs = array($riverseg);
+}
+//print_r($segs);
+
+foreach ($segs as $riverseg) {
+   $elid = getCOVACBPContainer($listobject, $scenid, $riverseg);
+   $elemname =  getElementName($listobject, $elid);
+   $order = getElementOrder($listobject, $elid);
+
+   $output = summarizeRun($listobject, $recid, $runid, $startdate, $enddate, $overwrite);
+   $verified = $output['run_verified'];
+   if ( $verified ) {
+      print("Verified \n");
+   } else {
+      print("Failed \n");
+   }
+}
+
+
+?>

@@ -1,0 +1,87 @@
+PHP Warning:  include(/var/www/html/wooomm/xajax_modeling.element.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include(): Failed opening '/var/www/html/wooomm/xajax_modeling.element.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include_once(./lib_verify.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(): Failed opening './lib_verify.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(./cova/lib_batchmodel.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Warning:  include_once(): Failed opening './cova/lib_batchmodel.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Fatal error:  Class 'pgsql_QueryObject' not found in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 86
+PHP Warning:  include(/var/www/html/wooomm/xajax_modeling.element.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include(): Failed opening '/var/www/html/wooomm/xajax_modeling.element.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include_once(./lib_verify.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(): Failed opening './lib_verify.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(./cova/lib_batchmodel.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Warning:  include_once(): Failed opening './cova/lib_batchmodel.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Fatal error:  Class 'pgsql_QueryObject' not found in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 86
+PHP Warning:  include(/var/www/html/wooomm/xajax_modeling.element.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 11
+PHP Warning:  include(): Failed opening '/var/www/html/wooomm/xajax_modeling.element.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 11
+PHP Notice:  Undefined variable: libpath in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 12
+Using stable version of model - library =  
+PHP Warning:  include_once(./lib_verify.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(): Failed opening './lib_verify.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(./cova/lib_batchmodel.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Warning:  include_once(): Failed opening './cova/lib_batchmodel.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Fatal error:  Class 'pgsql_QueryObject' not found in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 86
+PHP Warning:  include(/var/www/html/wooomm/xajax_modeling.element.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include(): Failed opening '/var/www/html/wooomm/xajax_modeling.element.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include_once(./lib_verify.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(): Failed opening './lib_verify.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(./cova/lib_batchmodel.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Warning:  include_once(): Failed opening './cova/lib_batchmodel.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Fatal error:  Class 'pgsql_QueryObject' not found in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 86
+PHP Warning:  include(/var/www/html/wooomm/xajax_modeling.element.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include(): Failed opening '/var/www/html/wooomm/xajax_modeling.element.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 21
+PHP Warning:  include_once(./lib_verify.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(): Failed opening './lib_verify.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(./cova/lib_batchmodel.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Warning:  include_once(): Failed opening './cova/lib_batchmodel.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Fatal error:  Class 'pgsql_QueryObject' not found in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 86
+PHP Notice:  Use of undefined constant E_NONE - assumed 'E_NONE' in /opt/model/apache/batch_updates/cova/xajax_config.php on line 11
+Performing login 1
+Outlet COMID : 4507448 
+Finding Tribs 4507448 
+PHP Fatal error:  Allowed memory size of 3221225472 bytes exhausted at /home/rob/src/php-5.5.4/Zend/zend_hash.c:450 (tried to allocate 524288 bytes) in /var/www/html/lib/lib_nhdplus.php on line 523
+PHP Warning:  include(/var/www/html/wooomm/xajax_modeling.element.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 11
+PHP Warning:  include(): Failed opening '/var/www/html/wooomm/xajax_modeling.element.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 11
+PHP Notice:  Undefined variable: libpath in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 12
+Using stable version of model - library =  
+PHP Warning:  include_once(./lib_verify.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(): Failed opening './lib_verify.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 24
+PHP Warning:  include_once(./cova/lib_batchmodel.php): failed to open stream: No such file or directory in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Warning:  include_once(): Failed opening './cova/lib_batchmodel.php' for inclusion (include_path='.:/usr/lib/php:/php/includes
+;
+; Windows: \path1') in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 25
+PHP Fatal error:  Class 'pgsql_QueryObject' not found in /opt/model/apache/batch_updates/cova/run_shakeTree.php on line 86

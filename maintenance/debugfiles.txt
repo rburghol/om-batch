@@ -1,0 +1,1 @@
+-rw-rw-r--+ 1 apache apache 12 Feb 23 02:20 /var/www/html/data/proj3/out/debuglog.0.240537.log
